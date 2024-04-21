@@ -1,0 +1,2 @@
+recipient1@provider.x,individual information about recipient
+recipient2@provider.x,individual information about recipient
